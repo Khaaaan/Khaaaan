@@ -1,0 +1,1 @@
+import * as readme from 'readme.md'
